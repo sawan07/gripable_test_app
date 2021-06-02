@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437136857675",
+    "project_id": "gripable-55ff5",
+    "storage_bucket": "gripable-55ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437136857675:android:ba48b08046920e3f320bce",
+        "android_client_info": {
+          "package_name": "com.hrsapps.gripable_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437136857675-glitak2eie39lng47vg18ldr939la1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlUg1i3Zc2gcgr49c8S_p-HbbhHS7HBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437136857675-glitak2eie39lng47vg18ldr939la1i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
